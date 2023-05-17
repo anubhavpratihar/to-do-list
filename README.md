@@ -26,3 +26,6 @@ useState Hook: A React Hook for managing state within functional components.
 Feel free to explore and modify the code to enhance the app according to your needs. Happy to-do listing!
 
 preview: <https://zt30n1.csb.app/>
+
+
+credits: Anubhav Pratihar
